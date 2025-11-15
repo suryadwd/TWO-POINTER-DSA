@@ -12,7 +12,7 @@ If you want to order or group problems differently, feel free to edit this file.
 | No. | Question | Link | Done |
 | --- | --- | --- | --- |
 | 1 | 88. Merge Sorted Array | https://leetcode.com/problems/merge-sorted-array/ | [✔] |
-| 2 | 125. Valid Palindrome | https://leetcode.com/problems/valid-palindrome/ | [ ] |
+| 2 | 125. Valid Palindrome | https://leetcode.com/problems/valid-palindrome/ | [✔] |
 | 3 | 15. 3Sum | https://leetcode.com/problems/3sum/ | [ ] |
 | 4 | 19. Remove Nth Node From End of List | https://leetcode.com/problems/remove-nth-node-from-end-of-list/ | [ ] |
 | 5 | 75. Sort Colors | https://leetcode.com/problems/sort-colors/ | [ ] |
